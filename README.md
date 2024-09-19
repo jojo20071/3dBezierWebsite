@@ -3,6 +3,9 @@
 ## Overview
 link: 3d-bezier-website.vercel.app
 
+![image](https://github.com/user-attachments/assets/fe7d10bf-d26b-4529-b842-589227079373)
+
+
 This project animates a cube along a 3D cubic Bezier curve defined by four control points using Three.js.
 
 ## Features
